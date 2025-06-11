@@ -1,6 +1,9 @@
 # Scale-invariance-in-early-embryonic-development
 Data and analysis accompanying the paper:  "Scale invariance in early embryonic development"   Milos Nikolic, Victoria Antonetti, Feng Liu, Gentian Muhaxheri, Mariela D. Petkova, Martin Scheeler, Eric M. Smith, William Bialek and Thomas Gregor. 
 
+[https://www.pnas.org/doi/10.1073/pnas.2403265121](https://www.pnas.org/doi/10.1073/pnas.2403265121)
+
+Pre-print verision:
 [arxiv.org/abs/2312.17684](https://arxiv.org/abs/2312.17684)
 
 ------------------------------------------------------------------------
