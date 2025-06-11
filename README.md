@@ -9,7 +9,7 @@ Pre-print verision:
 ------------------------------------------------------------------------
 
 Here we provide the data we used in our analysis, and our MATLAB
-analysis code. For more details, see the papaer.
+analysis code. For more details, see the paper.
 
 We analyze gene expression patterns from three data sets: 
 1. the pair-rule genes [Petkova et al. 2019], 
